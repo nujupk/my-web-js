@@ -1,0 +1,36 @@
+{
+   "name":"PSC-Questions & Answers Bank",
+   "short_name":"PSC mod",
+   "start_url":"pscmod.blogspot.com",
+   "display":"standalone",
+   "orientation":"portrait",
+   "background_color":"#ECF0F1",
+   "theme_color":"#3f51b5",
+"icons":[
+    {
+        "src":"https://1.bp.blogspot.com/-lbqgt7CgyKE/WrI_jmXdEoI/AAAAAAAAAUE/Yy4WE6TxfEMnIYcm4nuw5Kn1doL2giAXQCLcBGAs/s1600/psc%2Bmod%2B96.png",
+        "sizes":"96x96",
+        "type":"image/png"
+
+    },
+    {
+        "src":"https://3.bp.blogspot.com/-_h-xJVu__w0/WrI_iqoFjdI/AAAAAAAAAT4/Iu5mx2PwYeEz9IUp3F6zeORG695DlP0NgCLcBGAs/s1600/psc%2Bmod%2B144.png",
+        "sizes":"144x144",
+        "type":"image/png"
+
+    },
+    {
+        "src":"https://3.bp.blogspot.com/-8L-RVmU8SxI/WrI_iyywMMI/AAAAAAAAAUA/3Sx5mp_hS0MBfRyjyh5RiPzBr-CkQZKqQCLcBGAs/s1600/psc%2Bmod%2B256.png",
+        "sizes":"256x256",
+        "type":"image/png"
+
+    },
+    {
+        "src":"https://4.bp.blogspot.com/-DvHtyuXchhk/WrI_ix3pFrI/AAAAAAAAAT8/cz15V9FW6Y4a3Y_mYydfjvUx2c3qX5dVACLcBGAs/s320/psc%2Bmod%2B512.png",
+        "sizes":"512x512",
+        "type":"image/png"
+
+    }
+]
+
+} 
