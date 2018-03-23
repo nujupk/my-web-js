@@ -1,7 +1,7 @@
 {
    "name":"PSC-Questions & Answers",
    "short_name":"PSC mod",
-   "start_url":"pscmod.blogspot.com",
+   "start_url":"https://pscmod.blogspot.com",
    "display":"standalone",
    "orientation":"portrait",
    "background_color":"#85C1E9",
