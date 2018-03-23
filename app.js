@@ -1,6 +1,6 @@
 if('serviceworker' in navigator)
 {
-    navigator.serviceWorker.register('https://raw.githubusercontent.com/technuju/my-web-js/master/sw.js');
+    navigator.serviceWorker.register('https://cdn.rawgit.com/technuju/my-web-js/master/sw.js');
 }
 
 
